@@ -2,7 +2,7 @@
 
 Estudo realizado através do Bootcamp fullstack-developer do Santander, disponibilizado pela <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong>.
 
-Especialista e instrutora [SpruceGabriela](https://https://github.com/SpruceGabriela/ "SpruceGabriela").
+Especialista e instrutora [SpruceGabriela](https://github.com/SpruceGabriela/ "SpruceGabriela").
 
 ### Os requisitos são:
 
